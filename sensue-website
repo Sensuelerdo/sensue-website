@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sensue Project - Equal Financial Opportunities</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="tokenomics.html">Tokenomics</a></li>
+                <li><a href="governance.html">Governance</a></li>
+                <li><a href="getinvolved.html">Get Involved</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <div class="intro">
+            <h1>Welcome to Sensue</h1>
+            <p>Sensue is revolutionizing financial equity with decentralized and equal opportunities for everyone. Join us in reshaping the future.</p>
+            <a href="about.html" class="cta-button">Learn More</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Sensue Project. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sensue Project - Equal Financial Opportunities</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="tokenomics.html">Tokenomics</a></li>
+                <li><a href="governance.html">Governance</a></li>
+                <li><a href="getinvolved.html">Get Involved</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <div class="intro">
+            <h1>Welcome to Sensue</h1>
+            <p>Sensue is revolutionizing financial equity with decentralized and equal opportunities for everyone. Join us in reshaping the future.</p>
+            <a href="about.html" class="cta-button">Learn More</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Sensue Project. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Sensue Project</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="tokenomics.html">Tokenomics</a></li>
+                <li><a href="governance.html">Governance</a></li>
+                <li><a href="getinvolved.html">Get Involved</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Sensue</h2>
+        <p>Sensue is a groundbreaking project focused on solving the problem of unequal equity distribution in the financial world. We aim to provide equal equity opportunities for everyone, leveraging decentralized technology and a community-driven approach.</p>
+        <h3>Our Mission</h3>
+        <p>At Sensue, we focus on creating a decentralized ecosystem where anyone can access fair financial opportunities. Through the **SENchain** blockchain and **$SEN token**, we empower communities to engage in a system that distributes wealth equitably.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Sensue Project. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tokenomics - Sensue Project</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="tokenomics.html">Tokenomics</a></li>
+                <li><a href="governance.html">Governance</a></li>
+                <li><a href="getinvolved.html">Get Involved</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="tokenomics">
+        <h2>Tokenomics Breakdown</h2>
+        <p>The **$SEN token** has a total supply of 1,000,000,000 tokens. Here’s the distribution:</p>
+        <table>
+            <tr>
+                <th>Category</th>
+                <th>Allocation</th>
+            </tr>
+            <tr>
+                <td>Community & Rewards</td>
+                <td>40% (75% unlocked immediately)</td>
+            </tr>
+            <tr>
+                <td>Ecosystem & Liquidity</td>
+                <td>25%</td>
+            </tr>
+            <tr>
+                <td>Development & Innovation</td>
+                <td>15%</td>
+            </tr>
+            <tr>
+                <td>Team & Advisors</td>
+                <td>10%</td>
+            </tr>
+            <tr>
+                <td>Partnerships & Growth</td>
+                <td>7%</td>
+            </tr>
+            <tr>
+                <td>Reserve Fund</td>
+                <td>3%</td>
+            </tr>
+        </table>
+
+        <p>The **SENchain** ensures security and decentralization, with community-driven rewards distributed through **staking**, **liquidity mining**, and **partnerships**.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Sensue Project. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tokenomics - Sensue Project</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="tokenomics.html">Tokenomics</a></li>
+                <li><a href="governance.html">Governance</a></li>
+                <li><a href="getinvolved.html">Get Involved</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="tokenomics">
+        <h2>Tokenomics Breakdown</h2>
+        <p>The **$SEN token** has a total supply of 1,000,000,000 tokens. Here’s the distribution:</p>
+        <table>
+            <tr>
+                <th>Category</th>
+                <th>Allocation</th>
+            </tr>
+            <tr>
+                <td>Community & Rewards</td>
+                <td>40% (75% unlocked immediately)</td>
+            </tr>
+            <tr>
+                <td>Ecosystem & Liquidity</td>
+                <td>25%</td>
+            </tr>
+            <tr>
+                <td>Development & Innovation</td>
+                <td>15%</td>
+            </tr>
+            <tr>
+                <td>Team & Advisors</td>
+                <td>10%</td>
+            </tr>
+            <tr>
+                <td>Partnerships & Growth</td>
+                <td>7%</td>
+            </tr>
+            <tr>
+                <td>Reserve Fund</td>
+                <td>3%</td>
+            </tr>
+        </table>
+
+        <p>The **SENchain** ensures security and decentralization, with community-driven rewards distributed through **staking**, **liquidity mining**, and **partnerships**.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Sensue Project. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Governance - Sensue Project</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="tokenomics.html">Tokenomics</a></li>
+                <li><a href="governance.html">Governance</a></li>
+                <li><a href="getinvolved.html">Get Involved</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="governance">
+        <h2>Decentralized Governance</h2>
+        <p>Sensue operates on a decentralized governance model. **$SEN token** holders can participate in important decision-making processes, from protocol upgrades to reward distribution mechanisms.</p>
+        <h3>How it Works</h3>
+        <p>By holding **$SEN**, you gain voting power in the Sensue ecosystem. Through community proposals, stakeholders will decide the future direction of the project. Whether you’re staking, contributing, or holding, your voice matters.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Sensue Project. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Involved - Sensue Project</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="tokenomics.html">Tokenomics</a></li>
+                <li><a href="governance.html">Governance</a></li>
+                <li><a href="getinvolved.html">Get Involved</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="getinvolved">
+        <h2>Join the Sensue Community</h2>
+        <p>Get involved by purchasing **$SEN tokens**, participating in staking pools, or becoming a governance participant. Here’s how you can make a difference:</p>
+        <ul>
+            <li>Buy **$SEN tokens** on supported exchanges</li>
+            <li>Stake your tokens for rewards and governance voting</li>
+            <li>Participate in **Sensue DAO** decisions</li>
+        </ul>
+
+        <h3>Community Links</h3>
+        <p>Join our community and follow us on social media:</p>
+        <ul>
+            <li><a href="https://twitter.com/SensueOfficial" target="_blank">Twitter</a></li>
+            <li><a href="https://discord.com/SensueOfficial" target="_blank">Discord</a></li>
+            <li><a href="https://t.me/SensueOfficial" target="_blank">Telegram</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Sensue Project. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+/* Reset styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header nav ul {
+    list-style: none;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #4caf50;
+}
+
+.cta-button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.cta-button:hover {
+    background-color: #45a049;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: white;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+table th, table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+table th {
+    background-color: #4caf50;
+    color: white;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin: 5px 0;
+}
